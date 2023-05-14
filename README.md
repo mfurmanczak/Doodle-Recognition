@@ -18,6 +18,9 @@ The project includes the following scripts:
 - `train.py`: This script train the model on provided dataset.
 - `test.py`: This script tests the model performance.
 
+Additionally, the repository includes the `quickdraw_model.h5` which reaches 89% accuracy on the testing set.
+
+
 ## To train the model
 ```
 python train.py
