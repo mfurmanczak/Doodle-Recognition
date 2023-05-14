@@ -28,7 +28,7 @@ python train.py
 python test.py
 ```
 
-## To draw your own sketches run
+## To draw your own sketches and predict the output
 ```
 python main.py
 ```
