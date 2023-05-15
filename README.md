@@ -1,4 +1,4 @@
-# Doodle Recognition using Convolutional Neural Networks
+# Doodle Classification using Convolutional Neural Networks
 
 Software for training a CNN Model on the `Quickdraw` dataset using `Tensorflow`. 
 
