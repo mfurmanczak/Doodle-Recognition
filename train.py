@@ -15,7 +15,7 @@ classes = {
     5: 'octopus',
     6: 'panda',
     7: 'pizza',
-    9: 'snowflake',
+    8: 'snowflake',
     9: 'star'
 }
 
